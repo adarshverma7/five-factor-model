@@ -3,8 +3,6 @@ This repository contains a machine learning project designed to predict personal
 
 ![image](https://github.com/user-attachments/assets/f2d36117-0f26-482d-b90a-091e07deffea)
 
-
-
 # Introduction
 Personality analysis has always been a crucial aspect of understanding human behavior. The Big Five Personality Traits Model, also known as the Five-Factor Model (FFM), helps describe individuals’ personality using five dimensions:
 
@@ -23,9 +21,6 @@ Conscientiousness:	Organization, dependability, and goal-oriented behavior.
 Extraversion:	Sociability, talkativeness, and assertiveness.
 Agreeableness:	Compassion, cooperativeness, and trust in others.
 Neuroticism:	Emotional instability, anxiety, and vulnerability.
-
-# Visual Enhancement
-
 
 # Dataset
 The dataset used for this project contains 19,719 responses to an online personality questionnaire. This questionnaire was part of a study conducted by Open Psychometrics and provides insights into users' responses to a variety of personality-related questions.
@@ -118,6 +113,7 @@ After Feature Engineering
 
 # Installation
 Clone the repository and install the necessary dependencies:
+
 git clone https://github.com/yourusername/five-factor-model.git
 cd five-factor-model
 pip install -r requirements.txt
